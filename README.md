@@ -11,3 +11,6 @@ En este repositorio se guardan las versiones de SAOViVO
 - Ejecutar saovivo
 `$ ./saovivo`
 
+# Control sobre la ejecucion
+
+En caso de querer tener más control sobre la ejecucion de SAOViVO es recomentable ejecutar el archivo `server_sv.exe`. En éste caso una ventana quedara activa durante todo el proceso de ejecución.
