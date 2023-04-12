@@ -1,9 +1,9 @@
 # binaries
-En este repositorio se guardan las versiones de SAOViVO
+En este repositorio se guardan las versiones ejecutables de SAOViVO
 # Descarga y ejecucion de versión para Windows
 - Carpeta win
 - Descomprimir el archivo .zip
-- Ejecutar saovivo.vbs y esperar unos segundos que instale por primera vez
+- Ejecutar `saovivo.vbs` haciendo doble click sobre el icono, luego esperar unos segundos que instale por primera vez
 
 # Descarga y ejecucion de version para OSX
 
